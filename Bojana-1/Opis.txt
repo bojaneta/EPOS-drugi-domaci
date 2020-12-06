@@ -1,0 +1,8 @@
+Kratko korisničko uputstvo:
+
+Sajt predstavlja onlajn mesto za rezervisanje/kupovinu kućmih ljubimaca.
+
+U svim .html fajlovima je korišćen bootstrap frejmvork, a pored toga i naš css. Svaki .html fajl sadrži kod za meni, a nakon toga i kod kojim je predstavljen ostatak sadržaja u telu svake stranice. Takođe svaka stranica ima isti futer.
+Napravili smo main.css fajl koji smo koristili za svaku stranicu, a pored toga je i svaka stranica imala svoj zasebni .css fajl kako bi sve stranice imale jedinstveni dizajn.
+Galerija je realizovana u vidu slajdera pomoću jQuery-ja koji je korišćen u main.js fajlu.
+Na stranici "rezerviši" se nalazi forma koja sadrži tri različita inputa - polje za teks, padajući meni i polje za datum. Pored toga je ubačeno i dugme za rezervacju.
